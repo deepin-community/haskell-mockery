@@ -1,8 +1,8 @@
-haskell-mockery (0.3.5-deepin1) unstable; urgency=medium
+haskell-mockery (0.3.5-5) unstable; urgency=medium
 
-  * Rebuild
+  * Sourceful upload for GHC 9.0.2
 
- -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:39:58 +0800
+ -- Scott Talbert <swt@techie.net>  Mon, 20 Jun 2022 12:58:52 -0400
 
 haskell-mockery (0.3.5-4) unstable; urgency=medium
 
